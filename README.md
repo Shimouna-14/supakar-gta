@@ -1,8 +1,12 @@
+<p align="center"><img src="./public/supakar-gta.png" alt="supakar" width="250"></p>
+
 # Suparkar
 
 ## Description
 
 Ce projet est une initiation à la conception d'interface avec React JS. Sur le thème de l'emblématique jeu vidéo GTA San Andreas, il s'agit de créer une interface de personnalisation d'un véhicule. L'utilisateur peut choisir la couleur de la carrosserie en temps réel.
+
+[![JavaScipt](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/fr/docs/Web/JavaScript) [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.dev/) [![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
 ## Installation
 
@@ -12,9 +16,9 @@ Ce projet est une initiation à la conception d'interface avec React JS. Sur le 
 
 ## Technologies
 
-- Vite JS
-- React JS
-- Tailwind CSS
+-   Vite JS
+-   React JS
+-   Tailwind CSS
 
 ## Résultats attendus
 
