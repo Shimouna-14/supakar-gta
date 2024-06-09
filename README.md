@@ -1,4 +1,4 @@
-<p align="center"><img src="./public/supakar-gta.png" alt="supakar" width="250"></p>
+<p align="center"><img src="./public/supakar-gta.png" alt="supakar" width="300"></p>
 
 # Suparkar
 
