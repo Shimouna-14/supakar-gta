@@ -3,17 +3,17 @@ import supakarLogo from "../public/logo.png";
 import loading from "../public/sounds/loading.mp3";
 
 function App() {
-  const [instruction, setInstruction] = useState("Click on START to begin.");
-  const audio = new Audio(loading);
+  // const [instruction, setInstruction] = useState("Click on START to begin.");
+  // const audio = new Audio(loading);
 
-  const start = () => {
-    audio.play();
-    setTimeout(() => {
-      setInstruction(
-        'Supakar est un projet pour l\'apprentissage de React. Il est basé sur le template Vite + React. Pour démarrer, il suffit de lire le fichier "README.md". Bonne session de codage !',
-      );
-    }, 1300);
-  };
+  // const start = () => {
+  //   audio.play();
+  //   setTimeout(() => {
+  //     setInstruction(
+  //       'Supakar est un projet pour l\'apprentissage de React. Il est basé sur le template Vite + React. Pour démarrer, il suffit de lire le fichier "README.md". Bonne session de codage !',
+  //     );
+  //   }, 1300);
+  // };
 
   return (
     <>
